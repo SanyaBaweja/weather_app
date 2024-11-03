@@ -92,7 +92,7 @@ To get started, clone the GitHub repository:
 1. **Backend Setup**
     - Clone the repository and navigate to the `backend` directory.
       ```bash
-      git clone https://github.com/shubhams-git/weather_app.git
+      git clone https://github.com/SanyaBaweja/weather_app.git
       cd weather_app
       cd backend
       ```
